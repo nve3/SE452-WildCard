@@ -6,3 +6,4 @@ Team Wildcard will be developing an application that’s similar to DePaul’s C
 Team Members:
 * Mike Harris
 * Nicole Emich
+* Juliana De La Parra
