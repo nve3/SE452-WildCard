@@ -7,3 +7,4 @@ Team Members:
 * Mike Harris
 * Nicole Emich
 * Juliana De La Parra
+* Felix Zhu
